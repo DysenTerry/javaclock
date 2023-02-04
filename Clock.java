@@ -12,7 +12,7 @@ Font clockFont;
 // my stuff
 public int startYear = 2023;
 public int startDayOfYear = 24;
-public int startHour = 1;
+public int startHour = 2;
 public int startMin = 8;
 public int startSec = 00;
 
